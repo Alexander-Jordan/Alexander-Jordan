@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alexander-Jordan
+- 👀 I’m interested in Game and Web development
+- 🌱 I’m currently learning PHP and Symfony framework
+- 💞️ I'm happily married
